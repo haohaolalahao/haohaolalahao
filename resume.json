@@ -10,21 +10,27 @@
   },
   "avatar": { "hidden": false },
   "profile": {
-    "name": "姓名",
-    "email": "736****86@qq.com",
-    "mobile": "156********",
-    "github": "https://github.com/visiky",
-    "zhihu": "https://zhihu.com/people/visiky",
-    "workExpYear": "",
-    "workPlace": "浙江杭州",
+    "name": "王昊",
+    "email": "haohaolalahao@icloud.com",
+    "mobile": "18810520826",
+    "github": "https://github.com/haohaolalahao",
+    // "zhihu": "https://zhihu.com/people/visiky",
+    // "workExpYear": "",
+    "workPlace": "北京",
     "positionTitle": "前端工程师"
   },
   "educationList": [
     {
-      "edu_time": ["2014.09.01", "2018.06.30"],
-      "school": "华南理工大学",
-      "major": "网络工程",
+      "edu_time": ["2016.09.01", "2020.06.30"],
+      "school": "北京理工大学",
+      "major": "电子信息工程",
       "academic_degree": "本科"
+    },
+    {
+      "edu_time": ["2020.09.01", "2023.06.30"],
+      "school": "北京理工大学",
+      "major": "信息与通信工程",
+      "academic_degree": "硕士"
     }
   ],
   "awardList": [
